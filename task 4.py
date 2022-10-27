@@ -15,10 +15,3 @@ elif discr == 0:
     print('x=', x)
 else:
     print('no roots')
-
-
-
-
-
- 
-
